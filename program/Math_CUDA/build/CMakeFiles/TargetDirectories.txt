@@ -1,0 +1,4 @@
+/home/tingchangyin/Desktop/CUDA/program/Math_CUDA/build/CMakeFiles/rebuild_cache.dir
+/home/tingchangyin/Desktop/CUDA/program/Math_CUDA/build/CMakeFiles/CUDA_SHARED.dir
+/home/tingchangyin/Desktop/CUDA/program/Math_CUDA/build/CMakeFiles/edit_cache.dir
+/home/tingchangyin/Desktop/CUDA/program/Math_CUDA/build/CMakeFiles/CUDA_STATIC.dir

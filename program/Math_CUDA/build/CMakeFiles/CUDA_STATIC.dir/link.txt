@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libCUDA.a  CMakeFiles/CUDA_STATIC.dir/src/Math.cpp.o CMakeFiles/CUDA_STATIC.dir/src/CUDA_STATIC_generated_add.cu.o
+/usr/bin/ranlib ../lib/libCUDA.a

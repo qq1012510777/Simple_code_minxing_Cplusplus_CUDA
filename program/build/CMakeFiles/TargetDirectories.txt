@@ -1,0 +1,3 @@
+/home/tingchangyin/Desktop/CUDA/program/build/CMakeFiles/rebuild_cache.dir
+/home/tingchangyin/Desktop/CUDA/program/build/CMakeFiles/main.dir
+/home/tingchangyin/Desktop/CUDA/program/build/CMakeFiles/edit_cache.dir

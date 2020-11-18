@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Math_CUDA/src/Math.h
+
+/home/tingchangyin/Desktop/CUDA/program/src/main.cpp
+Math.h
+/home/tingchangyin/Desktop/CUDA/program/src/Math.h
+iostream
+-
+
